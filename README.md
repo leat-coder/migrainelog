@@ -2,6 +2,8 @@
 
 A personal migraine tracking app with a mobile-first interface, built to help you understand your patterns, triggers, and medication use over time.
 
+**🌐 Live app: [web-production-65a4d7.up.railway.app](https://web-production-65a4d7.up.railway.app)**
+
 ![MigraineLog Dashboard](https://img.shields.io/badge/status-active-brightgreen) ![Ruby](https://img.shields.io/badge/backend-Ruby%20%2B%20WEBrick-CC342D) ![SQLite](https://img.shields.io/badge/database-SQLite3-003B57) ![Zero dependencies](https://img.shields.io/badge/frontend-zero%20dependencies-blueviolet) ![Deploy on Railway](https://img.shields.io/badge/deploy-Railway-6466F1)
 
 ---
