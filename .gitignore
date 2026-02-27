@@ -1,4 +1,3 @@
 *.db
 *.log
-Gemfile.lock
 .DS_Store
